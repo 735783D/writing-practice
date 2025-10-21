@@ -69,6 +69,7 @@ button:focus-visible {
 
 
 /* Tailwind layers — must come first */
+/* eslint-disable @unknownAtRules */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
