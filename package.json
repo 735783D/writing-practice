@@ -13,8 +13,12 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^27.0.1",
+    "path": "^0.12.7",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "text-to-svg": "^3.1.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",

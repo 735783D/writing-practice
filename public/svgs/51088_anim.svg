@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 600 600" width="300" height="300"
+     preserveAspectRatio="xMidYMid meet">
+  <g transform="scale(2, 2) translate(0, -225)">
+    <path d="M249.34 377.35L206.93 377.35L206.93 505.83L188.02 505.83L188.02 260.94L206.93 260.94L206.93 360.47L249.34 360.47L249.34 377.35ZM162.50 431.82L149.30 446.04Q131.14 432.20 114.07 409.35Q96.99 386.49 91.28 368.34L91.28 368.34Q86.33 385.73 69.57 409.47Q52.81 433.21 32.50 449.46L32.50 449.46L17.90 436.89Q44.69 419.25 63.03 386.94Q81.38 354.63 81.38 324.92L81.38 324.92L81.38 299.15L27.04 299.15L27.04 282.27L153.36 282.27L153.36 299.15L100.04 299.15L100.04 323.65Q100.04 353.49 118.45 384.08Q136.86 414.68 162.50 431.82L162.50 431.82Z" stroke="black" fill="none" stroke-dasharray="2000" stroke-dashoffset="2000">
+        <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="5s" fill="freeze" />
+      </path>
+  </g>
+</svg>
